@@ -1,0 +1,108 @@
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\AuditTrail.mdb
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\Online Computer Parts Store.mdb
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\Online Computer Parts Stores.mdb
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\OnlineStore.mdb
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\Sales.mdb
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\Online Computer Parts Store.exe.config
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\Online Computer Parts Store.exe
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\Online Computer Parts Store.pdb
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\Online Computer Parts Store.xml
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\Guna.UI2.dll
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\itextsharp.dll
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\System.Buffers.dll
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\System.Memory.dll
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\itextsharp.xml
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\System.Buffers.xml
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\System.Collections.Immutable.xml
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\System.Memory.xml
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\System.Numerics.Vectors.xml
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\System.Reflection.Metadata.xml
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online Computer Parts Store.vbproj.ResolveComReference.cache
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.AB.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.AdminForm.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.ChangePass.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.ForgotPassword.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.Inventory_Report.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.InventoryForm.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.LoginForm.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.Resources.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.Record_Customer.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.Record_Supplier.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.RegisterForm.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.Sales_Report.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.STORE.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.TransactionForm.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online Computer Parts Store.vbproj.GenerateResource.cache
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online Computer Parts Store.vbproj.CoreCompileInputs.cache
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online Computer Parts Store.vbproj.CopyComplete
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online Computer Parts Store.exe
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online Computer Parts Store.xml
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online Computer Parts Store.pdb
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online Computer Parts Store.vbproj.AssemblyReference.cache
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.Choosing_Supplier.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.Supplier_Store.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.Supplier_Transaction.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.Database_Backup.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.graph.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\x86\Debug\Inventory.mdb
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\AuditTrail.mdb
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\Inventory.mdb
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\Online Computer Parts Store.mdb
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\Online Computer Parts Stores.mdb
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\OnlineStore.mdb
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\Sales.mdb
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\Online Computer Parts Store.exe.config
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\Online Computer Parts Store.exe
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\Online Computer Parts Store.pdb
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\Online Computer Parts Store.xml
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\Guna.UI2.dll
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\itextsharp.dll
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\System.Buffers.dll
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\System.Memory.dll
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\itextsharp.xml
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\System.Buffers.xml
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\System.Collections.Immutable.xml
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\System.Memory.xml
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\System.Numerics.Vectors.xml
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\System.Reflection.Metadata.xml
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online Computer Parts Store.vbproj.AssemblyReference.cache
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online Computer Parts Store.vbproj.ResolveComReference.cache
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.AB.resources
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.AdminForm.resources
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.ChangePass.resources
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.Choosing_Supplier.resources
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.Database_Backup.resources
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.ForgotPassword.resources
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.graph.resources
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.Inventory_Report.resources
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.InventoryForm.resources
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.LoginForm.resources
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.Resources.resources
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.Record_Customer.resources
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.Record_Supplier.resources
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.RegisterForm.resources
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.Sales_Report.resources
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.STORE.resources
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.Supplier_Store.resources
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.Supplier_Transaction.resources
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online_Computer_Parts_Store.TransactionForm.resources
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online Computer Parts Store.vbproj.GenerateResource.cache
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online Computer Parts Store.vbproj.CoreCompileInputs.cache
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online Computer Parts Store.vbproj.CopyComplete
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online Computer Parts Store.exe
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online Computer Parts Store.xml
+C:\Users\Jet Boy Abordaje\Downloads\Online Computer Parts Store (3)\Online Computer Parts Store\obj\x86\Debug\Online Computer Parts Store.pdb

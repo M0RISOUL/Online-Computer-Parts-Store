@@ -1,0 +1,141 @@
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\bin\Debug\OnlineStore.mdb
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\bin\Debug\Online Computer Parts Store.exe.config
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\bin\Debug\Online Computer Parts Store.exe
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\bin\Debug\Online Computer Parts Store.pdb
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\bin\Debug\Online Computer Parts Store.xml
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online Computer Parts Store.vbproj.AssemblyReference.cache
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Interop.ADODB.dll
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online Computer Parts Store.vbproj.ResolveComReference.cache
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.AdminForm.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.InventoryForm.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.LoginForm.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Resources.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.RecordForm.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.SellerForm.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.TransactionForm.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online Computer Parts Store.vbproj.GenerateResource.cache
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online Computer Parts Store.vbproj.CoreCompileInputs.cache
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online Computer Parts Store.exe
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online Computer Parts Store.xml
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online Computer Parts Store.pdb
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.SalesReport.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Database_Recovery_Management.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Supplier.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Supplier2.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Audit_Trail.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Record_Customer.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Record_Supplier.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Store.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.RegisterForm.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Security_Features.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.AuditTrail.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online Computer Parts Store.vbproj.AssemblyReference.cache
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Interop.ADODB.dll
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online Computer Parts Store.vbproj.ResolveComReference.cache
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.AdminForm.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Database_Recovery_Management.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.InventoryForm.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.LoginForm.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Resources.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Record_Customer.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Record_Supplier.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.RecordForm.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.RegisterForm.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Security_Features.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Store.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Supplier.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Supplier2.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.TransactionForm.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online Computer Parts Store.vbproj.GenerateResource.cache
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online Computer Parts Store.vbproj.CoreCompileInputs.cache
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online Computer Parts Store.exe
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online Computer Parts Store.xml
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online Computer Parts Store.pdb
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\OnlineStore.mdb
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\Online Computer Parts Store.exe.config
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\Online Computer Parts Store.exe
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\Online Computer Parts Store.pdb
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\Online Computer Parts Store.xml
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Inventory_Report.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Sales_Report.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Audit_Trail.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\AuditTrail.mdb
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.AB.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.ChangePass.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.ForgotPassword.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\BouncyCastle.Crypto.dll
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\itextsharp.dll
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\System.Buffers.dll
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\System.Collections.Immutable.dll
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\System.Memory.dll
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\System.Numerics.Vectors.dll
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\System.Reflection.Metadata.dll
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\itextsharp.xml
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\System.Buffers.xml
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\System.Collections.Immutable.xml
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\System.Memory.xml
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\System.Numerics.Vectors.xml
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\System.Reflection.Metadata.xml
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online Computer Parts Store.vbproj.CopyComplete
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\Online Computer Parts Store.mdb
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Form1.resources
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\Online Computer Parts Stores.mdb
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\Sales.mdb
+D:\2ND SEM\ADVANCE DATABASE SYSTEMS\project\project\Online Computer Parts Store\bin\Debug\Guna.UI2.dll
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\AuditTrail.mdb
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\Online Computer Parts Store.mdb
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\Online Computer Parts Stores.mdb
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\OnlineStore.mdb
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\Sales.mdb
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\Online Computer Parts Store.exe.config
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\Online Computer Parts Store.exe
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\Online Computer Parts Store.pdb
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\Online Computer Parts Store.xml
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\Guna.UI2.dll
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\itextsharp.dll
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\System.Buffers.dll
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\System.Memory.dll
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\itextsharp.xml
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\System.Buffers.xml
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\System.Memory.xml
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online Computer Parts Store.vbproj.AssemblyReference.cache
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Interop.ADODB.dll
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online Computer Parts Store.vbproj.ResolveComReference.cache
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.AB.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.AdminForm.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Audit_Trail.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.ChangePass.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Database_Recovery_Management.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.ForgotPassword.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Form1.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Inventory_Report.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.InventoryForm.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.LoginForm.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Resources.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Record_Customer.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Record_Supplier.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.RecordForm.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.RegisterForm.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Sales_Report.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Security_Features.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.STORE.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Supplier.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.Supplier2.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online_Computer_Parts_Store.TransactionForm.resources
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online Computer Parts Store.vbproj.GenerateResource.cache
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online Computer Parts Store.vbproj.CoreCompileInputs.cache
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online Computer Parts Store.vbproj.CopyComplete
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online Computer Parts Store.exe
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online Computer Parts Store.xml
+C:\Users\Jian Carlo\source\repos\Online Computer Parts Store\obj\Debug\Online Computer Parts Store.pdb
